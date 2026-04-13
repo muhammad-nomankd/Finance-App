@@ -25,4 +25,3 @@ Kotlin, Jetpack Compose, Room, Hilt, Navigation 3, Vico charts, DataStore
 1. Clone the repo
 2. Open in Android Studio Hedgehog or newer
 3. Run on device or emulator (minSdk 26)
-# Finance-App
