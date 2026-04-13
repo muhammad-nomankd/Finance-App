@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/cfdae7ac-5a43-491e-a7eb-c0ebe477aa9a
+
 # FinanceApp — Personal Finance Companion
 
 ## Overview
